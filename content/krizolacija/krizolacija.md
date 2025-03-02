@@ -10,38 +10,44 @@ takšne, pri katerih se lahko do solz nasmejimo. In če velja grški
 pregovor, da lahko le tisti, ki mu solze sperejo oči, jasno vidi, potem
 je to tudi prijazno vabilo k branju te knjige.
 
-## Mnenja bralcev
+> Neverjetno, kako hitro pozabimo slabe stvari in jih odmaknemo v temne
+> prostore spomina, ne da bi jih sploh doumeli ali se iz njih kaj naučili.
+> Knjiga te prostore jasno osvetli -- in zato je v času, ko svet pestijo
+> nove krize in oblike izoliranosti, izjemno pomembna.
+>
+> -- dr. Peter Klepec, filozof
 
-### dr. Peter Klepec, filozof
+***
 
-Neverjetno, kako hitro pozabimo slabe stvari in jih odmaknemo v temne
-prostore spomina, ne da bi jih sploh doumeli ali se iz njih kaj naučili.
-Knjiga te prostore jasno osvetli -- in zato je v času, ko svet pestijo
-nove krize in oblike izoliranosti, izjemno pomembna.
+> Podjed predstavi enega pomembnejših svetovnih procesov, ki vpliva tudi
+> na slovensko družbo in ga nikakor ne smemo spregledati ali potlačiti.
+>
+> -- dr. Tanja Roženbergar, etnologinja
 
-### dr. Tanja Roženbergar, etnologinja*
+***
 
-Podjed predstavi enega pomembnejših svetovnih procesov, ki vpliva tudi
-na slovensko družbo in ga nikakor ne smemo spregledati ali potlačiti.
+> Iskanje novega, na splet priklopljenega, a od stvarnega sveta
+> odklopljenega človeka se je začelo!
+>
+> -- dr. Boštjan Nedoh, filozof
 
-### dr. Boštjan Nedoh, filozof*
+***
 
-Iskanje novega, na splet priklopljenega, a od stvarnega sveta
-odklopljenega človeka se je začelo!
+> Dan Podjed k raziskavi vedno pristopi kreativno, v svojih knjigah pa ne
+> dovoli, da bi bralca prevzeli dolgočasje, strah in malodušje. Zato me
+> tudi krizolacija, o kateri zdaj piše, spomni na edinstveno igrivost
+> resnosti.
+>
+> -- dr. Jernej Mlekuž, geograf, etnolog in antropolog
 
-### dr. Jernej Mlekuž, geograf, etnolog in antropolog*
+***
 
-Dan Podjed k raziskavi vedno pristopi kreativno, v svojih knjigah pa ne
-dovoli, da bi bralca prevzeli dolgočasje, strah in malodušje. Zato me
-tudi krizolacija, o kateri zdaj piše, spomni na edinstveno igrivost
-resnosti.
-
-### dr. Lana Peternel, antropologinja*
-
-Bili so kovidni časi, ko smo postali brezdomci v svojih domovih. Potem
-je nastopil čas (samo)izolacije sredi brezimnih drugih. In prihajajo
-časi, ki bodo še bolj združevali nezdružljivo. To je glavni refren
-Podjedove krizolacije.
+> Bili so kovidni časi, ko smo postali brezdomci v svojih domovih. Potem
+> je nastopil čas (samo)izolacije sredi brezimnih drugih. In prihajajo
+> časi, ki bodo še bolj združevali nezdružljivo. To je glavni refren
+> Podjedove krizolacije.
+>
+> -- dr. Lana Peternel, antropologinja
 
 ## PREDGOVOR Podobe krizolacije
 

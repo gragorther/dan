@@ -7,40 +7,52 @@ date = "2019-05-12"
 
 > »Klikni me nežno« je slogan današnjega časa. Podjed ga natančno secira,
 > zato je ta knjiga imeniten vpogled v naš selfi. Všečkam!
+>
+> -- mag. Nataša Briški, novinarka in urednica portala *Metina lista*
 
-mag. Nataša Briški, novinarka in urednica portala *Metina lista*
+***
 
 > Dan Podjed nas z etnografskim vpogledom v viharje nedavnega in sedanjega
 > časa postavlja pred ogledalo vsakdanjih norosti, s katerimi krmimo
 > nevidno roko banalnega nasilja trga: od razkazovanja, nadzorovanja,
 > opazovanja in (samo)napihovanja slave do »samovšečkov« in voajerstva.
+>
+> -- prof. dr. Rajko Muršič, Filozofska fakulteta Univerze v Ljubljani
 
-prof. dr. Rajko Muršič, Filozofska fakulteta Univerze v Ljubljani
+***
 
 > Videni? To ni več vprašanje. To je dejstvo. Ne le dejstvo, temveč
 > totalno družbeno dejstvo. Zato velja knjigo vzeti v roke čim prej -- ne
 > glede na to, ali želite biti bolj ali manj videni.
+>
+> -- dr. Jernej Mlekuž, raziskovalec, Znanstvenoraziskovalni center SAZU
 
-dr. Jernej Mlekuž, raziskovalec, Znanstvenoraziskovalni center SAZU
+***
 
 > Ko boste prebrali to knjigo, se boste vprašali: pa zakaj potem vsi tako
 > psujejo Udbo in Orwellovega Velikega Brata?
-
-mag. Marcel Štefančič jr., filmski kritik, televizijski voditelj in
+>
+> -- mag. Marcel Štefančič jr., filmski kritik, televizijski voditelj in
 publicist
+
+***
 
 > avdušujemo se nad tehnologijami in tehnologije nad nami. Opazovanje
 >človeka je postalo tako preprosto in vsakdanje, da je skrajni čas za
 > poglobljen razmislek. Kot je ta.
+>
+> -- Matej Praprotnik, vodja razvoja digitalnih storitev na Radiu Slovenija
 
-Matej Praprotnik, vodja razvoja digitalnih storitev na Radiu Slovenija
+***
 
 > V prvoosebnem slogu BBC-jevih dokumentarcev nam razpoloženi antropolog
 > prikaže tehnološki pospešek in družbene posledice človekovega voajerizma
 > in ekshibicionizma. Knjiga je nezatežen vodič po hipernormalizirani
 > informacijski družbi, ki ga mora vsakdo prebrati, da bomo dobra družba.
+>
+> -- Vuk Ćosić, digitalni strateg in spletni umetnik
 
-Vuk Ćosić, digitalni strateg in spletni umetnik
+***
 
 > Podjed bralcu razkrije dvoreznost vstopa v sodobno svetovno industrijo
 > pogleda, pri čemer zadene v mehko jedro kulturne skopofilije in
@@ -48,9 +60,11 @@ Vuk Ćosić, digitalni strateg in spletni umetnik
 > metateoretsko obsesijo, retoriko in dogmatiko, zato ga srčno priporočam
 > študentom, pedagogom in širši javnosti kot dobrodošel prispevek k
 > razpravi o najaktualnejših vprašanjih sodobnega življenja.
-
-izr. prof. ddr. Aljoša Pužar, Fakulteta za družbene vede Univerze v
+>
+> -- izr. prof. ddr. Aljoša Pužar, Fakulteta za družbene vede Univerze v
 Ljubljani
+
+***
 
 > Ob branju spoznamo, zakaj so nadzorni sistemi sodobnih korporacij povsem
 > drugačni od tistih v preteklosti. Gre za prve sisteme, v katerih
@@ -60,16 +74,18 @@ Ljubljani
 > sistemi verjetno ne pomenijo konca človeštva, nedvomno pa sodelujemo v
 > novi visokotehnološki družbeni konstrukciji resničnosti, ki je hkrati
 > privlačna in temačna.
+>
+> -- mag. Nataša Koražija, novinarka časnika *Finance*
 
-mag. Nataša Koražija, novinarka časnika *Finance*
+***
 
 > Vse, kar ste si od nekdaj želeli izvedeti o življenju v sodobnem
 > panoptiku, v kar se spreminja splet, a vas je bilo strah poguglati.
 > Namesto vas se je žrtvoval Dan Podjed in o tem spisal berljivo knjigo, v
 > kateri se navedki iz del sodobnih mislecev izmenjujejo z avtorjevimi
 > osebnimi izpovedmi. Naj prvi vrže kamen tisti, ki je brez všečka!
-
-Agata Tomažič, pisateljica in publicistka
+>
+> Agata Tomažič, pisateljica in publicistka
 
 Založba ZRC
 
