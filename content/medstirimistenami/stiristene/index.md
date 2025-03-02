@@ -275,9 +275,6 @@ V Mercatorju na Vojkovi so prodajalke top, tudi v koronatajmu so ostale
 > človeški v času korone, to je bil mesidž. Ali pa smo človeški na
 > drugačen način.
 
-**\
-**
-
 ## 6. dan karantene: Golo sonce nad jeklenimi votlinami
 
 »Policija, policija!« je zavpila žena. Kje, zakaj? Stekel sem v kuhinjo
