@@ -2,7 +2,6 @@
 title = "Videni: Zakaj se vse več opazujemo in razkazujemo"
 summary = ""
 weight = 1
-date = "2019-05-12"
 +++
 
 > »Klikni me nežno« je slogan današnjega časa. Podjed ga natančno secira,

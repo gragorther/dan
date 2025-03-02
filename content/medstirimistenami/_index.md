@@ -2,6 +2,6 @@
 title = "Antropologija med štirimi stenami"
 subtitle = "Spoznavanje družbe in sebe med pandemijo"
 author = "Dan Podjed"
-date = "2019-05-12"
+date = "2020-10-01"
 weight = 2
 +++
