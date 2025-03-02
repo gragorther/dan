@@ -1,0 +1,21 @@
+<div class="dropdown">
+  <span data-bs-toggle="dropdown" id="bookMenuButton" aria-expanded="false">
+    <i
+      role="button"
+      class="fs-2 m-2 bi bi-book-half text-primary"
+      title="Show all books"
+    ></i>
+  </span>
+  <ul
+    class="dropdown-menu p-2"
+    style="min-width: 250px"
+    aria-labelledby="bookMenuButton"
+  >
+    {{ range .Site.Sections }}
+    <li>
+      <a href="{{ .Permalink }}"> {{- .Title | markdownify -}} </a> by {{
+      .Params.author }}
+    </li>
+    {{ end }}
+  </ul>
+</div>

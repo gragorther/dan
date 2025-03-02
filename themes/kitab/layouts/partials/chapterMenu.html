@@ -1,0 +1,26 @@
+<div class="dropdown">
+  <span data-bs-toggle="dropdown" id="chapterMenuButton" aria-expanded="false">
+    <i
+      role="button"
+      class="fs-2 m-2 bi bi-list text-primary"
+      title="Show all books"
+    ></i>
+  </span>
+
+  <ul
+    class="dropdown-menu p-2"
+    style="min-width: 250px"
+    aria-labelledby="chapterMenuButton"
+  >
+    {{ $thisSection := .Site.GetPage "section" .Section }} {{ with $thisSection
+    }}
+    <li>{{ .Title | markdownify }} {{ end }}</li>
+    <li><hr class="dropdown-divider" /></li>
+    {{ $mypages := intersect (where .Site.Pages "Section" .Section) (where
+    .Site.Pages "Kind" "page") }} {{ range $mypages }}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Title | markdownify}}</a>
+    </li>
+    {{ end }}
+  </ul>
+</div>

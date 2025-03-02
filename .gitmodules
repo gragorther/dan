@@ -1,0 +1,6 @@
+[submodule "themes/kitlab"]
+	path = themes/kitlab
+	url = https://github.com/darshanbaral/kitab.git
+[submodule "themes/kitab"]
+	path = themes/kitab
+	url = https://github.com/gragorther/kitab.git

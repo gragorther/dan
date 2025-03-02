@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="mb-2 p-3 bg-secondary rounded">
+  <h1>{{ .Title | markdownify }}</h1>
+  {{ if .Params.subtitle }}
+  <h4 class="fs-6">{{ .Params.subtitle }}</h4>
+  {{ end }}
+  <h2>by {{ .Params.author }}</h2>
+  <hr />
+
+  <ul class="list-unstyled">
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .Permalink }}"> {{- .Title -}} </a>
+      <div class="small chapter-summary">
+        {{ if .Params.summary }}
+        <p>{{ .Params.summary }}</p>
+        {{ else }} {{ .Summary | truncate 250 }} {{ end }}
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

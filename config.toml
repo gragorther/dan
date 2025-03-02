@@ -1,0 +1,14 @@
+baseURL = "https://danpodjed.eu"
+languageCode = "en-us"
+theme = "kitlab"
+title = "Books of Dan Podjed"
+
+disableKinds = ["taxonomy"]
+pluralizelisttitles = false
+
+[params]
+  author = "Dan Podjed"
+  description = "Some books of Dan Podjed"
+  dateFormat = "2006-01-02" 
+#  footer1 = "Awesome Books"
+#  footer2 = "(c) Cool Books"

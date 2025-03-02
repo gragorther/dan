@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="mb-2 p-3 position-relative bg-secondary rounded">
+  <h2>{{ .Title }}</h2>
+  <small>{{- partial "breadcrumb" . -}}</small>
+  <hr />
+  <div class="rounded">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}
