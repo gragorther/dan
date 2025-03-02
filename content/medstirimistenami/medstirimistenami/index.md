@@ -724,9 +724,6 @@ in iz tega razloga tudi zabavna 🙂
 > Fajn slišati, kar praviš! O nagradicah priporočam sicer še knjigo
 > *Tiny Habits,* ki jo je napisal BJ Fogg. Res zanimiva.
 
-**\
-**
-
 ## 13. dan karantene: Ves svet je oder
 
 Jutri imam načrtovana dva sestanka na daljavo, zato si moram nujno
@@ -819,13 +816,10 @@ masko in trenutno vlogo v vsakdanjem življenju postavili na ogled
 širnemu občinstvu. (Mimogrede, Shakespeare bi bil gotovo presenečen
 tudi, če bi lahko videl, kako priljubljene so maske v letu 2020 ...)
 
-\*\*\*
-
 Tako! Srajca je zlikana, pričeska urejena, hlače pa popackane. Zdaj pa
 na oder!
 
-Vrhunski zapis 🙂**\
-**
+Vrhunski zapis 🙂
 
 ## 14. dan karantene: Mlečni zombiji
 
@@ -1161,9 +1155,6 @@ postal stara tečnoba gnjavatorska.
 > jim ne bi rekel: »Fantje, prosim, da zapustite igrišče!« Tudi oni bi
 > lahko rekli, da ne gredo, in igrali naprej.
 
-**\
-**
-
 ## 17. dan karantene: Osem nasvetov za ohranitev zdrave pameti v družini
 
 Čeprav nisem najboljši naslov za delitev nasvetov, kakršne objavljajo
@@ -1422,9 +1413,6 @@ Samo bič ti še manjka.
 
 Še zdravniki nimajo celotne slike, obenem se trudijo delovati, kot da
 poznajo vse odgovore.
-
-**\
-**
 
 ## 19. dan karantene: Ljubezen v času karantene
 
@@ -1729,9 +1717,6 @@ moram spat
 > Tako da -- ko/če bomo premagali kult amaterizma, ki ga omenjaš, se bo
 > boj šele prav začel, ker se bo treba lotiti tudi boja za moč znotraj
 > znanosti same.
-
-**\
-**
 
 ## 21. dan karantene: Svet čez pet let
 
@@ -2384,9 +2369,6 @@ pogosto porine v vlogo gospodinje, učiteljice in domačega policaja.
 Upam da vse zaliješ z varikino
 
 Dokler ni vse belo, sploh ne dam v hladilnik. 🙂
-
-**\
-**
 
 ## 26. dan karantene: Vrhunske navade v usranem času
 
