@@ -1,6 +1,6 @@
 baseURL = "https://danpodjed.eu"
 languageCode = "en-us"
-theme = "kitlab"
+theme = "kitab"
 title = "Books of Dan Podjed"
 
 disableKinds = ["taxonomy"]
