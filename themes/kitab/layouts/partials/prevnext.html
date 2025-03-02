@@ -1,0 +1,24 @@
+<p class="mb-1 mt-1 text-left">
+  {{ if .PrevInSection }}
+  <a
+    href="{{ .PrevInSection.Permalink | relURL }}"
+    title="{{ .PrevInSection.Title }}"
+  >
+    <i class="fs-2 text-primary bi bi-arrow-right-circle-fill"></i>
+  </a>
+  {{ else }}
+  <i class="fs-2 text-seondary bi bi-arrow-right-circle-fill"></i>
+  {{ end }}
+</p>
+<p class="mb-1 mt-1 text-left">
+  {{ if .NextInSection }}
+  <a
+    href="{{ .NextInSection.Permalink | relURL }}"
+    title="{{ .NextInSection.Title }}"
+  >
+    <i class="fs-2 text-primary bi bi-arrow-left-circle-fill"></i>
+  </a>
+  {{ else }}
+  <i class="fs-2 text-seondary bi bi-arrow-left-circle-fill"></i>
+  {{ end }}
+</p>
